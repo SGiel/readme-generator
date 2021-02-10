@@ -1,7 +1,7 @@
-# README Generator [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]
+# readme generator ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 ## Description
-  generates a README.md file
+  generates readme
 
 ## Table of Contents
 
@@ -11,18 +11,18 @@
 * [License](#license)
 
 ## Installation
-  asdflkj
+  asd
 
 ## Usage
-  al;sdkfj
+  asdf
     
 ## License  
   
-Licensed under the Apache License 2.0 (the "License");
+Licensed under the GNU General Public License v3.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-(https://opensource.org/licenses/Apache-2.0)
+undefined
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
@@ -31,10 +31,10 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 ## Contributing
-  asd;lfkj
+  sadf
 
 ## Tests
-  a;lksdjf
+  asdf
 
 ## Questions
     My GitHub profile is github.com/SGiel
