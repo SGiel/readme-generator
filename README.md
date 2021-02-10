@@ -1,4 +1,4 @@
-# README Generator ![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)
+# README Generator ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 ## Description
   generates a README.md file
@@ -14,27 +14,27 @@
   a b c d
 
 ## Usage
-  a b c d
-    
+  e f g h
+  
 ## License  
   
-Licensed under the The Unlicense (the "License");
+Licensed under the Apache License 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-(http://unlicense.org/)
+(https://opensource.org/licenses/Apache-2.0)
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
+  
 ## Contributing
-  e f g h
+  i j k l
 
 ## Tests
-  i j k l
+  m n o p
 
 ## Questions
     My GitHub profile is github.com/SGiel
