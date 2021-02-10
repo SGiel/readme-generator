@@ -1,31 +1,30 @@
+# README.md Generator [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0
 
-    # sadfkj [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0
+## Description
+  generates a README.md file
 
-    ## Description
-    asdf;lkj
+## Table of Contents
 
-    ## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [License](#license)
 
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Contributing](#contributing)
-    * [License](#license)
+## Installation
+  sdlkfj
 
-    ## Installation
-    asdlfkj
-
-    ## Usage
-    sadlfkj
+## Usage
+  asdlfk
     
-    ## License  
-    Apache License 2.0
+## License  
+  Apache License 2.0
 
-    ## Contributing
-    asdlfj
+## Contributing
+  sdlkfj
 
-    ## Tests
-    asldkf
+## Tests
+  asdflk
 
-    ## Questions
-    My GitHub profile is github.com/askldfj
-    If you have questions about my project I can be reached at asdlkfj
+## Questions
+    My GitHub profile is github.com/SGiel
+    If you have questions about my project I can be reached at stephaniegiel@gmail.com

@@ -65,35 +65,34 @@ const renderLicenseBadge = license => {
 
 // TODO: Create a function to generate markdown for README
 const generateMarkdown = data => {
-  return `
-    # ${data.title} ${renderLicenseBadge(data.license)}
+  return `# ${data.title} ${renderLicenseBadge(data.license)}
 
-    ## Description
-    ${data.description}
+## Description
+  ${data.description}
 
-    ## Table of Contents
+## Table of Contents
 
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Contributing](#contributing)
-    * [License](#license)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [License](#license)
 
-    ## Installation
-    ${data.installation}
+## Installation
+  ${data.installation}
 
-    ## Usage
-    ${data.usage}
+## Usage
+  ${data.usage}
     
-    ## License  
-    ${data.license}
+## License  
+  ${data.license}
 
-    ## Contributing
-    ${data.contributing}
+## Contributing
+  ${data.contributing}
 
-    ## Tests
-    ${data.tests}
+## Tests
+  ${data.tests}
 
-    ## Questions
+## Questions
     My GitHub profile is github.com/${data.github}
     If you have questions about my project I can be reached at ${data.email}
 `;
