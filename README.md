@@ -1,7 +1,7 @@
-# README Generator ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+# README.md Generator ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-  generates a README.md file
+  Generates a README.md file based on user prompts
 
 ## Table of Contents
 
@@ -11,18 +11,18 @@
 * [License](#license)
 
 ## Installation
-  a b c d
+  Clone the repository to your terminal. Install Node.js to your terminal. Install the package inquirer to the root of your project directory
 
 ## Usage
-  e f g h
+  Type node index.js at the comand line at the root of your project directory. Then answer the user prompts about your project.
   
 ## License  
   
-Licensed under the Apache License 2.0 (the "License");
+Licensed under the The MIT License (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-(https://opensource.org/licenses/Apache-2.0)
+(https://opensource.org/licenses/MIT)
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
@@ -31,10 +31,10 @@ See the License for the specific language governing permissions and
 limitations under the License.
   
 ## Contributing
-  i j k l
+  None
 
 ## Tests
-  m n o p
+  None
 
 ## Questions
     My GitHub profile is github.com/SGiel
