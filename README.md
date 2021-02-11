@@ -1,7 +1,15 @@
 # README.md Generator ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-  Generates a README.md file based on user prompts
+  Generates an Output.md file that can serve as a README.md file for a project based on user prompts.
+
+  This project utilizes Node.js and the Inquirer package
+
+  ## Screenshots of web application 
+
+![Screenshot of README Generator if a license is chosen initial screen](assets/images/readme-generator-w-license.png)
+
+![Screenshot of README Generator if no license is chosen](assets/images/readme-generator-w-out-license.png)
 
 ## Table of Contents
 
@@ -11,10 +19,10 @@
 * [License](#license)
 
 ## Installation
-  Clone the repository to your terminal. Install Node.js to your terminal. Install the package inquirer to the root of your project directory
+  Clone the repository to your terminal. Intall Node.js to your terminal. Install Inquirer package to the root of your project directory.
 
 ## Usage
-  Type node index.js at the comand line at the root of your project directory. Then answer the user prompts about your project.
+  Type node index.js at the command line at the root of your project directory. Then answer the user prompts about your project.
   
 ## License  
   

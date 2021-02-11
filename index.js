@@ -85,7 +85,7 @@ const init = () => {
         return generateMarkdownPage(userInput);
     })
     .then(pageContent => {
-        return writeFile('README.md', pageContent);
+        return writeFile('Output.md', pageContent);
       })
     .catch(err => {
         console.log(err);
